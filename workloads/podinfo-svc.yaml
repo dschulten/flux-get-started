@@ -14,4 +14,4 @@ spec:
     port: 9898
     protocol: TCP
     targetPort: http
-    nodePort: 9898
+    nodePort: 30007
